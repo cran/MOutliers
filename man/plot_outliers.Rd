@@ -13,6 +13,10 @@ plot_outliers(data, method = c("mahalanobis", "mcd"), alpha = 0.975)
 
 \item{alpha}{The quantile cutoff for identifying outliers (default 0.975).}
 }
+\value{
+A gtable object is returned invisibly. The function is primarily used
+for generating pairwise scatterplots with a shared legend as a side effect.
+}
 \description{
 Generates 2D scatterplots for each pair of variables in the dataset,
 with outliers identified using Mahalanobis or MCD distances

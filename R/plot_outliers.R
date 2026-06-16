@@ -13,6 +13,9 @@
 #' @importFrom gridExtra grid.arrange
 #' @importFrom cowplot get_legend
 #' @importFrom rlang .data
+#' @return
+#' A gtable object is returned invisibly. The function is primarily used
+#' for generating pairwise scatterplots with a shared legend as a side effect.
 #' @export
 #' @examples
 #'df_mtcars <- mtcars[, c("mpg", "hp", "wt" )]

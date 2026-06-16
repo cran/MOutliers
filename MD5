@@ -1,10 +1,10 @@
-4f8d5aa75296d731e3692556e414fed5 *DESCRIPTION
+93ead2ee1f6737661a21f0e9142f75d3 *DESCRIPTION
 ea6c0e1bea2256d03fe37ffc854f578f *LICENSE
 28a68ac389482238e5dc422ae3afea66 *NAMESPACE
 590f4c80f7cd3930a7988ebc4e1421a3 *R/RcppExports.R
 98a079650e18ba638e375ca194376867 *R/detect_multivariate_outliers.R
 f1643853f7bcd6395038ff132403273d *R/mOutliers.R
-2b573366b24a78e2ef874ef0470bd6b4 *R/plot_outliers.R
+d3c67f67d78ee87f7153b686a756c62c *R/plot_outliers.R
 a830e363dc7b8290e09ee1d026d5baa6 *README.md
 2731c0dc6fcad322e81261dd20ed18ef *build/vignette.rds
 eb6c86d8615ed89e6213742d3e649339 *inst/doc/multivariate_outliers.R
@@ -26,7 +26,7 @@ c471198f57963888af765c0dce36510a *man/figures/README-unnamed-chunk-26-2.png
 60d78da14a0434fb380fac5df9fbb451 *man/figures/README-unnamed-chunk-27-1.png
 6d87480a63c8f6a6d8ead042b3289715 *man/figures/README-unnamed-chunk-27-2.png
 49c0fcd5eb48e174b469931959452cd1 *man/figures/README-unnamed-chunk-28-1.png
-070f3b53f5f74fde97f1b1906d6a8588 *man/plot_outliers.Rd
+6aebfc211f0fb920f1d4d3c6d390008f *man/plot_outliers.Rd
 dc5df3d3d6416148d3c150fa6ef82d6c *src/RcppExports.cpp
 c84e0d205e9c90d698316dae2509ace2 *src/methods.cpp
 f23b09e7f011fe6cf4f2ee27aa6cda8a *tests/testthat.R
